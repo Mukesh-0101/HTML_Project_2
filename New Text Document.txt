@@ -1,0 +1,7 @@
+I created a Company Packing List webpage using HTML & CSS, featuring:
+✅ A fixed navigation bar with an active menu highlight
+✅ A styled search section for filtering table data
+✅ A well-structured table displaying shipment details
+✅ Custom styling with responsive design for a clean UI
+
+This project helped me enhance my CSS layout skills, improve table structuring, and apply best practices for web accessibility and responsiveness.
